@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 
 /**
  *This class represents a simple song in the music application.
@@ -55,3 +52,4 @@ public String getGenre() {
         return title + "-" + artist + "(" + runTimeSeconds + "s. " + genre + ")";   
     }
 }
+
